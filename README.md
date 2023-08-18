@@ -1,4 +1,3 @@
-# Covid-19Dashboard
 # Covid-19 Data Analysis Project using Python and Tableau
 
 Welcome to the Covid-19 Data Analysis Project! This project aims to provide insights into the impact of Covid-19 in India and globally by performing exploratory data analysis using Python and creating a Covid-19 dashboard in Tableau.
@@ -24,8 +23,4 @@ In this project, you will:
 - Python (with libraries like Pandas, Matplotlib, etc.)
 - Tableau Desktop (for dashboard creation)
 
-### Installation
 
-1. Clone this repository to your local machine.
-
-2. Install the required Python libraries using the following command:
